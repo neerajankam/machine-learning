@@ -6,16 +6,25 @@ from sklearn.metrics import accuracy_score
 
 
 class NaiveBayes:
-    dataset_path = None
+    """
+    A class representing the Naive Bayes classifier for fraud detection.
+
+    This class provides methods to download a credit card fraud dataset from Kaggle,
+    authenticate with the Kaggle API, and perform prediction using the Naive Bayes algorithm.
+    """
+
+    dataset_path: str = None
 
     @classmethod
-    def run(cls):
+    def run(cls) -> None:
+        """Runs the Naive Bayes classifier."""
         cls.authenticate()
         cls.download_dataset()
         cls.predict()
 
     @classmethod
-    def download_dataset(cls):
+    def download_dataset(cls) -> str:
+        """Downloads the dataset if not already downloaded and returns the dataset path."""
         if not cls.dataset_path:
             kaggle.api.dataset_download_files(
                 "mlg-ulb/creditcardfraud", path="data/", unzip=True
@@ -24,11 +33,13 @@ class NaiveBayes:
         return cls.dataset_path
 
     @classmethod
-    def authenticate(cls):
+    def authenticate(cls) -> None:
+        """Authenticates the Kaggle API."""
         kaggle.api.authenticate()
 
     @classmethod
-    def predict(cls):
+    def predict(cls) -> None:
+        """Performs prediction using Naive Bayes classifier."""
         # Read the dataset into a pandas dataframe
         data = pd.read_csv("data/creditcard.csv")
 
