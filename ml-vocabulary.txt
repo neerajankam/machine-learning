@@ -1,0 +1,69 @@
+Statistics
+Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.
+
+Descriptive Statistics
+In the descriptive Statistics, the Data is described in a summarized way. The summarization is done from the sample of the population using different parameters like Mean or standard deviation. Descriptive Statistics are a way of using charts, graphs, and summary measures to organize, represent, and explain a set of Data. 
+
+
+Inferential Statistics
+In the Inferential Statistics, we try to interpret the Meaning of descriptive Statistics. After the Data has been collected, analyzed, and summarised we use Inferential Statistics to describe the Meaning of the collected Data. 
+
+
+Distribution: A distribution in statistics is a function that shows the possible values for a variable and how often they occur.
+
+Population
+All the members of a group about which you want to draw a conclusion.
+
+Sample
+The part of the population selected for analysis.
+
+Variable
+A characteristic of an item or an individual that will be analyzed using statistics.
+
+Random variable
+A random variable is a variable whose value is unknown or a function that assigns values to each of an experiment's outcomes.
+
+Categorical variable
+A categorical variable (also called qualitative variable) refers to a characteristic that can’t be quantifiable. Categorical variables can be either nominal or ordinal.
+
+Nominal variable
+A nominal variable is one that describes a name, label or category without natural order. Sex and type of dwelling are examples of nominal variables. 
+
+Ordinal variable
+An ordinal variable is a variable whose values are defined by an order relation between the different categories.
+
+Numeric variable
+A numeric variable (also called quantitative variable) is a quantifiable characteristic whose values are numbers.
+
+Continuous variable
+A variable is said to be continuous if it can assume an infinite number of real values within a given interval.
+
+Discrete variable
+As opposed to a continuous variable, a discrete variable can assume only a finite number of real values within a given interval
+
+Event
+In probability theory, an event is an outcome or defined collection of outcomes of a random experiment.
+
+Sample space
+A sample space is a collection or a set of possible outcomes of a random experiment
+
+Probability Mass, Density function
+PMF is a probability measure that gives us probabilities of the possible values for a random variable. Probability mass functions (pmf) are used to describe discrete probability distributions. While probability density functions (pdf) are used to describe continuous probability distributions.
+
+Mean
+Mean is the average of all of the numbers.
+
+Median
+Median is the middle number, when in order.
+
+Mode
+Mode is the most common number.
+
+Range
+Range is the largest number minus the smallest number.
+
+Standard Deviation
+The Standard Deviation is a measure of how spread out numbers are.
+
+Variance
+The average of the squared differences from the Mean.
