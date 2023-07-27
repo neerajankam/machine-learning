@@ -9,8 +9,6 @@ Inferential Statistics
 In the Inferential Statistics, we try to interpret the Meaning of descriptive Statistics. After the Data has been collected, analyzed, and summarised we use Inferential Statistics to describe the Meaning of the collected Data. 
 
 
-Distribution: A distribution in statistics is a function that shows the possible values for a variable and how often they occur.
-
 Population
 All the members of a group about which you want to draw a conclusion.
 
@@ -67,3 +65,12 @@ The Standard Deviation is a measure of how spread out numbers are.
 
 Variance
 The average of the squared differences from the Mean.
+
+Distribution: A distribution in statistics is a function that shows the possible values for a variable and how often they occur.
+
+Types of distribution:
+
+1) Bernoulli: A Bernoulli distribution is a discrete probability distribution for a Bernoulli trial — a random experiment that has only two outcomes (usually called a “Success” or a “Failure”).
+
+
+2) Binomial: A binomial distribution can be thought of as simply the probability of a SUCCESS or FAILURE outcome in an experiment or survey that is repeated multiple times. The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail.
