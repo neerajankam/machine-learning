@@ -74,3 +74,65 @@ Types of distribution:
 
 
 2) Binomial: A binomial distribution can be thought of as simply the probability of a SUCCESS or FAILURE outcome in an experiment or survey that is repeated multiple times. The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail.
+
+What Is the Central Limit Theorem (CLT)?
+In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
+
+Standardizing a normal distribution
+When you standardize a normal distribution, the mean becomes 0 and the standard deviation becomes 1. This allows you to easily calculate the probability of certain values occurring in your distribution, or to compare data sets with different means and standard deviations.
+
+Expected value
+Expected value is exactly what you might think it means intuitively: the return you can expect for some kind of action, like how many questions you might get right if you guess on a multiple choice test.
+
+
+Skewness
+Skewness is a statistical measure that assesses the asymmetry of a probability distribution. It quantifies the extent to which the data is skewed or shifted to one side. Positive skewness indicates a longer tail on the right side of the distribution, while negative skewness indicates a longer tail on the left side.
+
+Kurtosis
+Kurtosis is a statistical measure used to describe the degree to which scores cluster in the tails or the peak of a frequency distribution.
+
+The peak is the tallest part of the distribution, and the tails are the ends of the distribution.
+
+Quantiles
+Quantiles are points in a distribution that relate to the rank order of values in that distribution. For a sample, you can find any quantile by sorting the sample. The middle value of the sorted sample (middle quantile, 50th percentile) is known as the median. The limits are the minimum and maximum values.
+
+Quartiles
+Quartiles are three values that split sorted data into four parts, each with an equal number of observations. Quartiles are a type of quantile.
+
+First quartile: Also known as Q1, or the lower quartile. This is the number halfway between the lowest number and the middle number.
+Second quartile: Also known as Q2, or the median. This is the middle number halfway between the lowest number and the highest number.
+Third quartile: Also known as Q3, or the upper quartile. This is the number halfway between the middle number and the highest number.
+
+Box plot
+A box and whisker plot—also called a box plot—displays the five-number summary of a set of data. The five-number summary is the minimum, first quartile, median, third quartile, and maximum. In a box plot, we draw a box from the first quartile to the third quartile. A vertical line goes through the box at the median.
+
+Joint probability 
+Joint probability is the probability of two events occurring simultaneously.
+
+Marginal probability 
+Marginal probability is the probability of an event irrespective of the outcome of another variable.
+
+Conditional probability
+Conditional probability is the probability of one event occurring in the presence of a second event.
+
+Covariance and Correlation
+Covariance measures the direction of a relationship between two variables, while correlation measures the strength of that relationship.
+
+Point estimation
+Point estimation, in statistics, the process of finding an approximate value of some parameter—such as the mean (average)—of a population from random samples of the population.
+
+Maximum Likelihood estimation
+Maximum likelihood estimation (MLE) is an estimation method that allows us to use a sample to estimate the parameters of the probability distribution that generated the sample.
+
+Regularization
+Regularization is a way to avoid overfitting by penalizing high-valued regression coefficients. In simple terms, it reduces parameters and shrinks (simplifies) the model.
+
+Maximum A posteriori(MAP) Estimation
+Maximum a posteriori estimation, as is stated in its name, maximizes the posterior probability P(A|B) in Bayes’ theorem with respect to the variable A given the variable B is observed.
+
+
+Margin of Error
+A margin of error tells you how many percentage points your results will differ from the real population value. For example, a 95% confidence interval with a 4 percent margin of error means that your statistic will be within 4 percentage points of the real population value 95% of the time.
+
+Confidence interval
+A confidence interval, in statistics, refers to the probability that a population parameter will fall between a set of values for a certain proportion of times
