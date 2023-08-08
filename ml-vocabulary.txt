@@ -130,9 +130,42 @@ Regularization is a way to avoid overfitting by penalizing high-valued regressio
 Maximum A posteriori(MAP) Estimation
 Maximum a posteriori estimation, as is stated in its name, maximizes the posterior probability P(A|B) in Bayes’ theorem with respect to the variable A given the variable B is observed.
 
-
 Margin of Error
 A margin of error tells you how many percentage points your results will differ from the real population value. For example, a 95% confidence interval with a 4 percent margin of error means that your statistic will be within 4 percentage points of the real population value 95% of the time.
 
 Confidence interval
 A confidence interval, in statistics, refers to the probability that a population parameter will fall between a set of values for a certain proportion of times
+
+Critical value
+A critical value is the value of the test statistic which defines the upper and lower bounds of a confidence interval, or which defines the threshold of statistical significance in a statistical test.
+
+p-value
+The P value is defined as the probability under the assumption of no effect or no difference (null hypothesis), of obtaining a result equal to or more extreme than what was actually observed. The P stands for probability and measures how likely it is that any observed difference between groups is due to chance.
+
+Significance level
+The significance level, also known as alpha or α, is a measure of the strength of the evidence that must be present in your sample before you will reject the null hypothesis and conclude that the effect is statistically significant.
+
+Critical value
+A critical value is the value of the test statistic which defines the upper and lower bounds of a confidence interval, or which defines the threshold of statistical significance in a statistical test.
+
+t test
+A t test is a statistical test that is used to compare the means of two groups. It is often used in hypothesis testing to determine whether a process or treatment actually has an effect on the population of interest, or whether two groups are different from one another.
+
+Power of a test
+The statistical power of the test is the probability of correctly rejecting the null hypothesis when it is false. In other words, it is the probability of not making a type II error in a hypothesis test.
+
+The relationship between the power of the test and the type II error can be expressed as follows:
+Power = 1 - β
+
+Hypothesis testing
+Hypothesis testing in statistics is a way for you to test the results of a survey or experiment to see if you have meaningful results. You’re basically testing whether your results are valid by figuring out the odds that your results have happened by chance. If your results may have happened by chance, the experiment won’t be repeatable and so has little use.
+
+Hypothesis testing can be one of the most confusing aspects for students, mostly because before you can even perform a test, you have to know what your null hypothesis is. Often, those tricky word problems that you are faced with can be difficult to decipher. But it’s easier than you think; all you need to do is:
+
+Figure out your null hypothesis,
+State your null hypothesis,
+Choose what kind of test you need to perform,
+Either support or reject the null hypothesis.
+
+Null and Alternative hypothesis
+The null and alternative hypotheses are two competing claims that researchers weigh evidence for and against using a statistical test: Null hypothesis (H0): There's no effect in the population. Alternative hypothesis (Ha or H1): There's an effect in the population.
