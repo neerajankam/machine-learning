@@ -169,3 +169,6 @@ Either support or reject the null hypothesis.
 
 Null and Alternative hypothesis
 The null and alternative hypotheses are two competing claims that researchers weigh evidence for and against using a statistical test: Null hypothesis (H0): There's no effect in the population. Alternative hypothesis (Ha or H1): There's an effect in the population.
+
+Two sample t tests
+A two sample t-test is used to determine whether or not two population means are equal.

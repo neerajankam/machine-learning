@@ -1,0 +1,6 @@
+https://machinelearningmastery.com/how-to-develop-an-intuition-for-probability-with-worked-examples/
+https://jontysinai.github.io/jekyll/update/2018/12/23/probability-part-two-conditional-probability.html#:~:text=This%20says%20that%20the%20probability%20of%20A%20and%20B%20is,with%20the%20probability%20of%20both.
+https://www.probabilitycourse.com/chapter8/8_2_3_max_likelihood_estimation.php
+https://leimao.github.io/blog/Maximum-Likelihood-Estimation-VS-Maximum-A-Posteriori-Estimation/
+https://www.simplypsychology.org/p-value.html
+https://www.scribbr.com/statistics/type-i-and-type-ii-errors/
